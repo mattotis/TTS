@@ -21,3 +21,4 @@ temp == 42 ? puts("The time for living") : puts("Not okay.")
 
 # 0..3 includes both 0 and 3
 # 0...3 includes 0 but not 3
+#extra note
